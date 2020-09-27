@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/05 01:03:21.852.pas,W:\docto\Documents\RAD Studio\Projects\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGServer.pas</Transaction>
+    <Transaction>2020/08/05 01:03:21.852.dfm,W:\docto\Documents\RAD Studio\Projects\Unit1.dfm=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGServer.dfm</Transaction>
+    <Transaction>2020/08/05 01:04:44.395.dproj,W:\docto\Documents\RAD Studio\Projects\Project1.dproj=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VISServer.dproj</Transaction>
+    <Transaction>2020/09/03 22:30:21.994.pas,W:\docto\Pictures\VISAGO\VISAGO\Visagie Andreas Grade 12 Lowveld High School\VISAGO(master)\VISAGO(ADMIN-SERVER)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\Visagie Andreas Grade 12 Lowveld High School\VISAGO(master)\VISAGO(ADMIN-SERVER)\VGHelp.pas</Transaction>
+    <Transaction>2020/09/03 22:30:21.994.dfm,W:\docto\Pictures\VISAGO\VISAGO\Visagie Andreas Grade 12 Lowveld High School\VISAGO(master)\VISAGO(ADMIN-SERVER)\Unit1.dfm=W:\docto\Pictures\VISAGO\VISAGO\Visagie Andreas Grade 12 Lowveld High School\VISAGO(master)\VISAGO(ADMIN-SERVER)\VGHelp.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

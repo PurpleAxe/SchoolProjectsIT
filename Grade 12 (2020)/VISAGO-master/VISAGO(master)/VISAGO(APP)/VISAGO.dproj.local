@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/01 16:03:20.292.pas,W:\docto\Documents\RAD Studio\Projects\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGmain.pas</Transaction>
+    <Transaction>2020/02/01 16:03:20.292.dfm,W:\docto\Documents\RAD Studio\Projects\Unit1.dfm=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGmain.dfm</Transaction>
+    <Transaction>2020/02/01 16:03:30.123.dproj,W:\docto\Documents\RAD Studio\Projects\Project1.dproj=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VISAGO.dproj</Transaction>
+    <Transaction>2020/02/24 18:42:56.936.pas,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\clsObjectAnimation.pas</Transaction>
+    <Transaction>2020/02/25 15:23:59.653.pas,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\clsDBConnections.pas</Transaction>
+    <Transaction>2020/07/29 11:14:20.004.pas,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\clsCurrentUser_u.pas</Transaction>
+    <Transaction>2020/08/02 19:00:00.183.pas,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGTraveller.pas</Transaction>
+    <Transaction>2020/08/02 19:00:00.183.dfm,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.dfm=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGTraveller.dfm</Transaction>
+    <Transaction>2020/08/02 19:21:14.982.pas,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.pas=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGAgent.pas</Transaction>
+    <Transaction>2020/08/02 19:21:14.982.dfm,W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\Unit1.dfm=W:\docto\Pictures\VISAGO\VISAGO\VISAGO(master)\VGAgent.dfm</Transaction>
+    <Transaction>2020/08/22 23:34:45.732.pas,E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\Unit1.pas=E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\datamodClient.pas</Transaction>
+    <Transaction>2020/08/22 23:34:45.732.dfm,E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\Unit1.dfm=E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\datamodClient.dfm</Transaction>
+    <Transaction>2020/08/22 23:51:29.842.pas,E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\Unit1.pas=E:\School 2020\Sockets\VISAGO(master)\VISAGO(APP)\MessageConf.pas</Transaction>
+  </Transactions>
+</BorlandProject>

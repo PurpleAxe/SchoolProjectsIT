@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/25 17:43:04.167.pas,W:\docto\Documents\RAD Studio\Projects\Unit1.pas=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Client\ClientForm.pas</Transaction>
+    <Transaction>2019/09/25 17:43:04.167.dfm,W:\docto\Documents\RAD Studio\Projects\Unit1.dfm=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Client\ClientForm.dfm</Transaction>
+    <Transaction>2019/09/25 17:43:09.703.dproj,W:\docto\Documents\RAD Studio\Projects\Project1.dproj=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Client\ClientProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,11 @@
+[SERVER] - Started at 20:43:47 on 2020/08/28
+{CLIENT} - 
+{CLIENT} - Purpleaxe joined
+{CLIENT} - 
+{CLIENT} - Johnlegend joined
+{CLIENT} - Purpleaxe: Heyy mannnn
+{CLIENT} - Johnlegend: Wassup Bro
+{CLIENT} - User Left
+{CLIENT} - User Left
+[SERVER] - Stopped at 20:44:45 on 2020/08/28
+

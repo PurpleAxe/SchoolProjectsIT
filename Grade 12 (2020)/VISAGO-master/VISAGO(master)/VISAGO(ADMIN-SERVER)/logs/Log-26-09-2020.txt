@@ -1,0 +1,11 @@
+[SERVER] - Started at 11:27:44 on 2020/09/26
+{CLIENT} - 
+{CLIENT} - Purpleaxe joined
+{CLIENT} - 
+{CLIENT} - Jack86 joined
+{CLIENT} - Jack86: Heyy
+{CLIENT} - Jack86: How can i help
+{CLIENT} - User Left
+{CLIENT} - User Left
+[SERVER] - Stopped at 11:29:31 on 2020/09/26
+

@@ -1,0 +1,21 @@
+[SERVER] - Started at 20:13:31 on 2020/08/30
+{CLIENT} - 
+{CLIENT} - Purpleaxe joined
+[SERVER] - Stopped at 20:15:17 on 2020/08/30
+[SERVER] - Started at 20:15:23 on 2020/08/30
+{CLIENT} - 
+{CLIENT} - Johnlegend joined
+[SERVER] - Stopped at 20:15:50 on 2020/08/30
+[SERVER] - Stopped at 20:15:52 on 2020/08/30
+[SERVER] - Started at 20:15:58 on 2020/08/30
+{CLIENT} - 
+{CLIENT} - Johnlegend joined
+{CLIENT} - User Left
+{CLIENT} - 
+{CLIENT} - Johnlegend joined
+{CLIENT} - 
+{CLIENT} - Purpleaxe joined
+{CLIENT} - User Left
+{CLIENT} - Johnlegend: Heyy
+[SERVER] - Stopped at 20:18:11 on 2020/08/30
+

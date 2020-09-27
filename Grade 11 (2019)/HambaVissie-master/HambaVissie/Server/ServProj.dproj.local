@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/25 17:41:44.559.pas,W:\docto\Documents\RAD Studio\Projects\Unit1.pas=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Server\ServForm.pas</Transaction>
+    <Transaction>2019/09/25 17:41:44.559.dfm,W:\docto\Documents\RAD Studio\Projects\Unit1.dfm=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Server\ServForm.dfm</Transaction>
+    <Transaction>2019/09/25 17:41:54.180.dproj,W:\docto\Documents\RAD Studio\Projects\Project1.dproj=W:\docto\Documents\School\2019\CardGame Grade 11PAT_2019\PHASE_2\Server\ServProj.dproj</Transaction>
+    <Transaction>2019/10/18 13:02:58.254.pas,J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.pas=J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\DBConnect.pas</Transaction>
+    <Transaction>2019/10/24 18:23:53.042.pas,J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.pas=J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\DBForm.pas</Transaction>
+    <Transaction>2019/10/24 18:23:53.042.dfm,J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.dfm=J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\DBForm.dfm</Transaction>
+    <Transaction>2019/10/25 03:42:44.236.pas,J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.pas=J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\DBMainForm.pas</Transaction>
+    <Transaction>2019/10/25 03:42:44.236.dfm,J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.dfm=J:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\DBMainForm.dfm</Transaction>
+    <Transaction>2019/10/25 08:02:13.966.pas,E:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.pas=E:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\LogForm.pas</Transaction>
+    <Transaction>2019/10/25 08:02:13.985.dfm,E:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\Unit1.dfm=E:\CardGame Grade 11PAT_2019\PHASE_2 (LOCALHOST VERSION)\Server\LogForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

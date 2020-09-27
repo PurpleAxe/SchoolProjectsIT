@@ -1,0 +1,5 @@
+[SERVER] - Started at 18:13:12 on 2020/09/21
+[SERVER] - Stopped at 18:13:13 on 2020/09/21
+[SERVER] - Started at 18:13:13 on 2020/09/21
+[SERVER] - Stopped at 18:13:14 on 2020/09/21
+

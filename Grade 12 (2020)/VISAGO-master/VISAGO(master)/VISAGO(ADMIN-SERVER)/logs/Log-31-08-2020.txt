@@ -1,0 +1,6 @@
+[SERVER] - Started at 11:52:09 on 2020/08/31
+{CLIENT} - 
+{CLIENT} - Purpleaxe joined
+{CLIENT} - Purpleaxe: gdgf
+[SERVER] - Stopped at 11:52:33 on 2020/08/31
+
