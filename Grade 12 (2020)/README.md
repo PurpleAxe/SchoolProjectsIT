@@ -1,15 +1,14 @@
 # VISAGO
-## Developed By Andreas Hugh Visagie (https://github.com/PurpleAxe)
-## Find this Project on GitHub
-	- https://github.com/PurpleAxe/VISAGO
-		Project currently only works in localhost. 
+## Developed By ![Andreas Hugh Visagie](https://github.com/PurpleAxe)
+## Find this Project on ![GitHub](https://github.com/PurpleAxe/VISAGO) 
+Project currently only works in localhost. 
 
 
 # General Development Setup
 Developed in Delphi 2010 IDE
 
 ## Sockets setup !
-## - (Make sure to first include this in the Delphi IDE before opening the Developer Files)
+### (Make sure to first include this in the Delphi IDE before opening the Developer Files)
 	1. Select Component > Install Packages.
 	2. In the Install Packages dialog box, click Add.
 	3. In the Add Design Package dialog, browse to C:\Program Files (x86)\Embarcadero\Studio\7.0\bin.
@@ -34,14 +33,14 @@ Developed in Delphi 2010 IDE
 		
 
 # Tester Setup
-### - (Please consult with the VISAGO USER MANUAL before Testing)	
+### (Please consult with the VISAGO USER MANUAL before Testing)	
 ### Applications to Run(Executables)
-## - Server	
+## Server	
 	VISAGO(ADMIN-SERVER) > VISServer.exe	
-## - Client
+## Client
 	VISAGO(APP) > VISAGO.exe	
 	
-## - (Clients used in the USER MANUAL, are below)
+## (Clients used in the USER MANUAL, are below)
 
 ### Agent
 	- Username: Johnlegend
